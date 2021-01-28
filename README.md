@@ -1,6 +1,6 @@
-# HelloWorldd - edited master
+HelloWorldd - edited master
 
-Structure
+# Structure
 
 ae-> radio -> RasPi (linux + OWRX) -> Web -> browser (java-OWRX) -> audio
 
